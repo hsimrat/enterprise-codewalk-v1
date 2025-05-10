@@ -26,5 +26,7 @@ Note :
 git clone https://github.com/hsimrat/enterprise-codewalk-v1.git
 
 
+🙌 Acknowledgements
 
+Created by HARSIMRAT SINGH – follow me for more content on frontend architecture and clean coding practices.
 
